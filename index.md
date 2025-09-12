@@ -5,14 +5,11 @@ permalink: /main
 
 ---
 
-# MISC-PROJECTS
-a compilation of my miscellaneous projects
-
-## Brief intro
-I start random projects in a whim and they're hard to keep track of sometimes. Might as well list down some of the more prominent side quests in a neat little page to make it easy.
+> [!NOTE]
+> Listed below are only (self-indulgent, unpolished) small projects done on my spare time.
 
 ## (Semi) Polished
-> Kind of polished work and largely functional
+> Kind of polished work and largely functional. May receive spontaneous updates.
 
 ### Aléatoire
 Meaning "random" in French, is the main hub for more "experimental" stuff. It's composed of a Caesar Cipher inspired game, an app that tells you if a number is perfect, or an utterly simplified currency exchange app. It started off as a hub for miscellaneous web apps but now I suppose it's a whole thing.
