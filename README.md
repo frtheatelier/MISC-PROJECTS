@@ -1,8 +1,6 @@
 ## Brief intro
 I start random projects in a whim and they're hard to keep track of sometimes. Might as well list down some of the more prominent side quests in a neat little page to make it easy.
-
-> [!NOTE]
-> Listed below are only (self-indulgent, unpolished) small projects done on my spare time.
+**Listed below are only (self-indulgent, unpolished) small projects done on my spare time.**
 
 ## (Semi) Polished
 > Kind of polished work and largely functional
