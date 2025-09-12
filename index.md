@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: page
+title: "Misc. Projects"
+permalink: /main
+
 ---
 
 # MISC-PROJECTS
