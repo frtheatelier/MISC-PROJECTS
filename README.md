@@ -2,6 +2,12 @@
 I start random projects in a whim and they're hard to keep track of sometimes. Might as well list down some of the more prominent side quests in a neat little page to make it easy.
 **Listed below are only (self-indulgent, unpolished) small projects done on my spare time.**
 
+## Ongoing
+> Developing over time
+
+### Fr. the Notebook
+A wiki of my OCs (that also acts as an archive for my writing and notes). Powered by Astro Starlight as of now. Check it out [here](https://frthenotebook.github.io/) ([Repo](https://github.com/frthenotebook/frthenotebook.github.io))
+
 ## (Semi) Polished
 > Kind of polished work and largely functional
 
