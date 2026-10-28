@@ -8,6 +8,9 @@ I start random projects in a whim and they're hard to keep track of sometimes. M
 ### Fr. the Notebook
 A wiki of my OCs (that also acts as an archive for my writing and notes). Powered by Astro Starlight as of now. Check it out [here](https://frthenotebook.github.io/) ([Repo](https://github.com/frthenotebook/frthenotebook.github.io))
 
+### AO3 Skins
+I had the sudden burst of inspiration to do this. Here's the [repo](https://github.com/frthenotebook/ao3-skins) for it. Also am using this as a way to practice making guides ([here](https://frthenotebook.github.io/ao3-skins/)).
+
 ## (Semi) Polished
 > Kind of polished work and largely functional
 
